@@ -3,7 +3,7 @@ body {
   min-height: 100vh;
   display: grid;
   place-content: center;
-  background:rgb(135, 222, 6)
+  background:#d7e0da
 }
 
 .gallery {
